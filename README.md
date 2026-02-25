@@ -109,4 +109,3 @@ This analysis helps hospital administration in:
 Aspiring Data Analyst | SQL | Power BI | Python
 
 
-t tell me 👍
